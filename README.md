@@ -1,6 +1,6 @@
 # hello-world
 
-Hello Ma Ma Htin yae Cow ly,
+Hello , 
 
 Trying GitHub, Zzz
 I'm noob. 
